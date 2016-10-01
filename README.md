@@ -1,6 +1,6 @@
 This is nonfunctional at the moment*
 
-It has worked precariously on Nitrous.io, in this PHP format.  I also have another <a href="HTTPS://github.com/Bango1999/Joel_Module">nonworking Node.js implementation</a> in another repository.
+It has worked precariously on Nitrous.io, in this PHP format.  I also have another nonworking Node.js implementation in <a href="HTTPS://github.com/Bango1999/Joel_Module">another repository</a>.
 
 Utilizes bash and g++ to perform php CLI executions, namely compilation and execution of C++ files, which the user inputs the raw code for via a glorified textarea in their browser window.
 
